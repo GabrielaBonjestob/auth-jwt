@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaBonjestob/auth-jwt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GabrielaBonjestob/auth-jwt/issues"
+  },
+  "homepage": "https://github.com/GabrielaBonjestob/auth-jwt#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
